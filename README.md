@@ -102,6 +102,7 @@ ai_brain.evaluate(scal_x_test,y_test)
 input=[[105]]
 input_scaled=scaler.transform(input)
 ai_brain.predict(input_scaled)
+```
 
 ## Dataset Information
 
